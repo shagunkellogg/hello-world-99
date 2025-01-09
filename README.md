@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is an example of a GitHub repository.
+Week 1 of ENTR-451 class. Hypeedd!!
